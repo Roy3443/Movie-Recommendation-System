@@ -1,1 +1,2 @@
-This is Movie Recommendation System made with simple Python GUI and mysql databse to store all the details.
+<h1>Movie Recommendation System</h1>
+<p>This is a movie recommendation system with simple python gui using tkinter and mysql database for all the queries.</p>
