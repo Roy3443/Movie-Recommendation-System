@@ -1,5 +1,5 @@
 <h1>Movie Recommendation System</h1>
-<p>This is a movie recommendation system with simple python gui using tkinter and mysql database for all the queries showing CRUD operations and thhis was my dbms project</p>
+<p>This is a movie recommendation system with simple python gui using tkinter and mysql database for all the queries showing CRUD operations and this was my DBMS project</p>
 <h2>Features:</h2>
 <ul>
   <li>Register User</li>
